@@ -1,0 +1,12 @@
+Instruções 
+
+Descompactar o arquivo agenda.zip
+
+Abrir o projeto com o netbeans.
+
+Configurar a execução de acordo com a port usa pelo xampp.
+
+Informar a quantidade de numeros e em seguida precionar confimar.
+Inserir os contatos e pressionar botão confirmar.
+
+
